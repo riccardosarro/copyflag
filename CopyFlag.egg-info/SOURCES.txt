@@ -6,5 +6,5 @@ CopyFlag.egg-info/dependency_links.txt
 CopyFlag.egg-info/requires.txt
 CopyFlag.egg-info/top_level.txt
 copyflag/__init__.py
-copyflag/copy_one_flag.py
+copyflag/copy_first_flag.py
 copyflag/known.py

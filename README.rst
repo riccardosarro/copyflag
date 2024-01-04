@@ -5,6 +5,10 @@ Introduction
 
 A package to search and copy a flag to the clipboard in the context of **CTFs**.
 
+Import module locally
+-----------------------------------------------------------------------------
+in the folder where `setup.py` is located, with the shell type `pip install -e .`
+
 Usage
 -----------------------------------------------------------------------------
 
