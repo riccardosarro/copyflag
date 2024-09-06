@@ -3,16 +3,20 @@ CopyFlag
 Introduction
 -----------------------------------------------------------------------------
 
-A package to search and copy a flag to the clipboard in the context of **CTFs**.
+A package to search and copy a flag (string that matches a regex) to the clipboard in the context of **CTFs**.
 
 Import module locally
 -----------------------------------------------------------------------------
-in the folder where `setup.py` is located, with the shell type `pip install -e .`
+in the folder where "`setup.py`" is located, with the shell type 
+
+.. code-block::shell 
+  pip install -e .
+
 
 Usage
 -----------------------------------------------------------------------------
 
-Fastest usage is
+Features by demonstration:
 
 .. code-block:: python
   
